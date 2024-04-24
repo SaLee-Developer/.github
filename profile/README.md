@@ -17,6 +17,6 @@
 
 **- Introduce (แนะนำตัว) [] by <a href="https://discord.com/users/919878532228841532">somboytiger<a>**
 
-**- Please convey (ฝากบอก) [] by <a href="https://discord.com/users/919878532228841532">somboytiger<a>**
+**- Convey (ฝากบอก) [] by <a href="https://discord.com/users/919878532228841532">somboytiger<a>**
 ### Links
 **- null**
