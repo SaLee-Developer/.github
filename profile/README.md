@@ -1,9 +1,5 @@
 # <p align="center">SaLee-Developer<p>
-**Team**
-- pipichka
-- jirayu_sri
-- somboytiger
-
+### <p align="center">Team for Project<p>
 <div align="center">
 <a href="https://discord.com/users/1089356674764120125"><img align="center" width="300px" src="https://lanyard.cnrad.dev/api/1089356674764120125"></a>
 <a href="https://discord.com/users/710543022412267521"><img align="center" width="300px" src="https://lanyard.cnrad.dev/api/710543022412267521"></a>
