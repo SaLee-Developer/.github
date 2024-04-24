@@ -9,6 +9,6 @@
 ### Progression
 **- null**
 ### System
-**- Game (เกม) [เกมกดระเบิด, เกม XO, เกมเป่ายิงฉุบ, เกมทายเหรียญ] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>
+**- Game (เกม) [เกมกดระเบิด, เกม XO, เกมเป่ายิงฉุบ, เกมทายเหรียญ] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>**
 ### Links
 **- null**
