@@ -6,8 +6,9 @@
 <a href="https://discord.com/users/919878532228841532"><img align="center" width="300px" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
 </div>
 
-**Progression**
-
-**System**
-
-**Links**
+### Progression
+**- null**
+### System
+**- null**
+### Links
+**- null**
