@@ -10,9 +10,10 @@
 **- null**
 ### System
 - Game (เกม) [เกมกดระเบิด, เกม XO, เกมเป่ายิงฉุบ, เกมทายเหรียญ] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>
-- image (ภาพ) [ดูรูปภาพโปรไฟล์, ดูรูปภาพแบนเนอร์, เจนรูปภาพขึ้นมาใหม่โดยใช้ AI] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>
+- Image (ภาพ) [ดูรูปภาพโปรไฟล์, ดูรูปภาพแบนเนอร์, เจนรูปภาพขึ้นมาใหม่โดยใช้ AI] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>
 - Verify (ยืนยันตัวตน) [แบบตัวอักษร, แบบตัวเลข, แบบผ่านเว็บไซต์] by <a href="https://discord.com/users/919878532228841532">somboytiger<a>
-- Introduce (แนะนำตัว) [] by <a href="https://discord.com/users/919878532228841532">somboytiger<a>
-- Convey (ฝากบอก) [] by <a href="https://discord.com/users/919878532228841532">somboytiger<a>
+- Quiz (สุ่มเลขหวย) by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>
+- Introduce (แนะนำตัว) by <a href="https://discord.com/users/919878532228841532">somboytiger<a>
+- Convey (ฝากบอก) by <a href="https://discord.com/users/919878532228841532">somboytiger<a>
 ### Links
 **- null**
