@@ -10,5 +10,6 @@
 **- null**
 ### System
 **- Game (เกม) [เกมกดระเบิด, เกม XO, เกมเป่ายิงฉุบ, เกมทายเหรียญ] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>**
+**- image (ภาพ) [ดูรูปภาพโปรไฟล์, ดูรูปภาพแบนเนอร์, เจนรูปภาพขึ้นมาใหม่โดยใช้ AI] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri<a>**
 ### Links
 **- null**
