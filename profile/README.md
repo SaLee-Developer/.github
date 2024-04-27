@@ -24,4 +24,5 @@
 - Economy (ระบบการเงิน) by <a href="https://discord.com/users/1089356674764120125">jirayu_sri</a>
 - Logger (บันทึกการกระทำ) by <a href="https://discord.com/users/919878532228841532">somboytiger</a>
 ### Links
+- Invite Bot <a href="https://discord.com/oauth2/authorize?client_id=894638419383320577">(Click)</a>
 - Join Discord Support <a href="https://discord.gg/8uD74gSPfA">(Click)</a>
