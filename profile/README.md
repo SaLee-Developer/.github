@@ -20,9 +20,8 @@
 - Introduce (แนะนำตัว) by <a href="https://discord.com/users/919878532228841532">somboytiger</a>
 - Convey (ฝากบอก) by <a href="https://discord.com/users/919878532228841532">somboytiger</a>
 - Gif (สร้างภาพ gif) [บอกฝันดี, จูบ, แปะมือ, สะกิด, ลูบหัว, เตะ, ต่อย, เศร้า, ร้องไห้, สับสน, NSFW] by <a href="https://discord.com/users/1089356674764120125">jirayu_sri</a>
-- Level (เลเวล) by <a href="https://discord.com/users/710543022412267521">pipichka</a>
-- Economy (ระบบการเงิน) by <a href="https://discord.com/users/1089356674764120125">jirayu_sri</a>
 - Logger (บันทึกการกระทำ) by <a href="https://discord.com/users/919878532228841532">somboytiger</a>
 ### Links
+- Website <a href="https://salee.oreshi.com">(Click)</a>
 - Invite Bot <a href="https://discord.com/oauth2/authorize?client_id=894638419383320577">(Click)</a>
 - Join Discord Support <a href="https://discord.gg/8uD74gSPfA">(Click)</a>
